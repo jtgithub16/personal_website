@@ -47,6 +47,7 @@ a:hover{
     font-family: 'Chivo', 'Exo', sans-serif;
     justify-self: center;
     align-self: center;
+    overflow: hidden;
 
 }
 .main > h1{
